@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="button">Button</string>
+    <string name="desc">image</string>
+    <string name="track_andriod">Track: Andriod</string>
+    <string name="country_nigeria">Country: Nigeria</string>
+    <string name="email_aniekanephraim_gmail_com">Email: aniekanephraim@gmail.com</string>
+    <string name="phone_number_2348175891028">Phone Number: +2348175891028</string>
+    <string name="slack_username_ephraimite">Slack Username: @Ephraimite</string>
+    <string name="ibatt_ephraim_aniekan">IBATT EPHRAIM ANIEKAN</string>
+    <string name="my_profile">MY PROFILE</string>
+
+
+</resources>
